@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: say hello to everyone
-        run: echo "Hello dosto"
+        run: echo "Hello dosto, Kaise ho.. CI pipeline padh rahe ho naa?"
     
