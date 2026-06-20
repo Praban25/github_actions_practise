@@ -8,6 +8,10 @@ app = Flask(__name__)
 def hello_world():
     return render_template('index.html')
 
+#testing for linter(error)
+if nnc:
+    gotohell
+
 
 @app.route('/health')
 def health():
